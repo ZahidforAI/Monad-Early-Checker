@@ -244,6 +244,11 @@ with st.container():
     ##st.markdown('<div class="block-container">', unsafe_allow_html=True)
     st.markdown('<h2 class="title" >⨀ EARLY MONAD CHECKER</h2>', unsafe_allow_html=True)  # Updated text
     st.markdown('<p class="subtitle">Check how early your wallet joined the Monad Testnet!</p>', unsafe_allow_html=True)
+    st.markdown("""
+    <footer>
+        Made with 💜 by <a href="https://x.com/zahidaliAI" target="_blank">Zahid</a>
+    </footer>
+""", unsafe_allow_html=True)
 
     wallet = st.text_input("Wallet Address", placeholder="0x.....")
     check_button = st.button("✨ Check Wallet")
