@@ -246,7 +246,7 @@ with st.container():
     st.markdown('<p class="subtitle">Check how early your wallet joined the Monad Testnet!</p>', unsafe_allow_html=True)
     st.markdown("""
     <footer>
-        Made with 💜 by <a href="https://x.com/zahidaliAI" target="_blank">Zahid</a>
+        Made with 💜 by <a href="https://x.com/zahidforai" target="_blank">Zahid</a>
     </footer>
 """, unsafe_allow_html=True)
 
